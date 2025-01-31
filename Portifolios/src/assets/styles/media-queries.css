@@ -1,8 +1,0 @@
-@media screen and(max-widght:1015px) {
-    .offer__list-itens{
-        grid-template-columns: 1fr 1fr;
-        
-
-    }
-    
-}
